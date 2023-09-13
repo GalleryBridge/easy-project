@@ -1,15 +1,17 @@
-# 叶豫
-
-一个用业余时间做文玩的年轻品牌，为此品牌制作的一个官网
-
-## 技术选型
+## 前后端分离
 
 ### 前端
 
-- 
-- 
+- Vue
+- Vue-Router
+- Axios
 
 ### 后端
 
-- 
-- 
+- Java 8
+
+- Spring Boot 2.7
+- Mysql 5.7
+- Redis
+- MyBatis Plus
+
