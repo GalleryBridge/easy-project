@@ -1,2 +1,12 @@
 server:
   port: 8081
+spring:
+  application:
+    name: springboot-project
+  profiles:
+    active: dev
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/laidor_project
+    username: root
+    password: root
