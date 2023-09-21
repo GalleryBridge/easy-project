@@ -2,21 +2,26 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="project-backend" />
+        <module name="headline-common" />
+        <module name="headline-model" />
+        <module name="easy-project" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="project-backend" target="1.8" />
+      <module name="easy-project" target="1.8" />
+      <module name="headline-common" target="1.8" />
+      <module name="headline-model" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="project-backend" options="-parameters" />
+      <module name="easy-project" options="-parameters" />
+      <module name="headline-common" options="-parameters" />
+      <module name="headline-model" options="-parameters" />
     </option>
   </component>
 </project>

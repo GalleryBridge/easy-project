@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fca132dc-76a2-4a5e-ada5-06449ecc3952" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_10_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_10_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_10_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_10_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_10_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_10_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_10_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project-backend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/ProjectBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/ProjectBackendApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/controller/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/controller/common/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/common/ErrorCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/entity/po/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/entity/po/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/entity/vo/AccountVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/entity/vo/AccountVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/exception/BusinessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/exception/BusinessException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/service/IAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/service/IAccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-backend/src/main/java/com/project/backend/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/project-backend/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="3b4b6080-9c92-462b-bf80-faf58b0ef6ae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -59,43 +25,31 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2VQf8r7hJoP8iHfEGNDIrrfAo6J" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2VhE9fZKre1GXEr53MDdJx8ngtm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path" value="node" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.project.backend" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Spring Boot.ProjectBackendApplication">
-    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
-      <method v="2" />
+  <component name="RunManager" selected="Spring Boot.HeadlineCommonApplication">
+    <configuration name="HeadlineCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="headline-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fortendcommon.HeadlineCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="ProjectBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="project-backend" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.backend.ProjectBackendApplication" />
+    <configuration name="HeadlineModelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="headline-model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.frontendmodel.HeadlineModelApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,32 +58,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fca132dc-76a2-4a5e-ada5-06449ecc3952" name="Changes" comment="" />
-      <created>1694773071063</created>
+      <changelist id="3b4b6080-9c92-462b-bf80-faf58b0ef6ae" name="Changes" comment="" />
+      <created>1695279761974</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1694773071063</updated>
-      <workItem from="1694773076000" duration="2522000" />
-      <workItem from="1695006518601" duration="8673000" />
-      <workItem from="1695024742982" duration="8251000" />
-      <workItem from="1695046637237" duration="2000" />
-      <workItem from="1695046706802" duration="29000" />
+      <updated>1695279761974</updated>
+      <workItem from="1695279765377" duration="2134000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
