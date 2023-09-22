@@ -8,7 +8,7 @@
         <version>2.7.16</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.proejct.backend</groupId>
+    <groupId>com.project.backent</groupId>
     <artifactId>project-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>project-backend</name>

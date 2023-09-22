@@ -103,9 +103,7 @@ npm install mockjs --save
 
 
 
-
-
-
+前端采用Vue2语法
 
 
 

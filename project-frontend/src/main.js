@@ -6,8 +6,11 @@ import 'element-plus/dist/index.css'
 import element from 'element-plus'
 import axios from 'axios'
 
+require('./mock.js')
+
 const app = createApp(App)
 
 app.use(store).use(router).use(element).mount('#app')
 
-app.config.globalProperties.axios = axios
+//  全局挂载
+app.config.globalProperties.$axios = axios
