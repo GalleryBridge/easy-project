@@ -20,7 +20,8 @@ Mock.mock('/captcha','get',() => {
 Mock.mock('/login','post',() => {
 
     //  无法在header中传入数据jwt
-
+    Result.code = 400
+    Result.msg = "验证码错误"
 
     return Result
 })

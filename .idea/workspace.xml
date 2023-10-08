@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecf63663-b98b-4afe-925e-4b8969e43126" name="Changes" comment="" />
+    <list default="true" id="ecf63663-b98b-4afe-925e-4b8969e43126" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project-frontend/src/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-frontend/src/views/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-frontend/src/mock.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-frontend/src/mock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-frontend/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-frontend/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-frontend/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-frontend/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/project-frontend/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/project-frontend/vue.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,9 +53,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-project" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="D:\Study\Idea2021.2.1\IntelliJ IDEA 2021.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Spring Boot.ProjectBackendApplication">
+  <component name="RunManager" selected="npm.serve">
     <configuration name="ProjectBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="project-backend" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.backent.ProjectBackendApplication" />
@@ -70,6 +89,8 @@
       <option name="presentableId" value="Default" />
       <updated>1695351532470</updated>
       <workItem from="1695351539372" duration="17301000" />
+      <workItem from="1695463990733" duration="5080000" />
+      <workItem from="1696738975879" duration="8500000" />
     </task>
     <servers />
   </component>
@@ -86,5 +107,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

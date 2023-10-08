@@ -29,7 +29,6 @@
           <el-input v-model="loginForm.code" style="width: 170px; float: left;"/>
           <el-image :src="captchaImg" class="captchaImg"></el-image>
         </el-form-item>
-
         <el-form-item>
           <el-button type="primary" @click="submitForm('loginForm')">登录</el-button>
           <el-button @click="resetForm('loginForm')">重置</el-button>
@@ -40,7 +39,6 @@
 </template>
 
 <script>
-  let  _this = this;
   export default {
     name: 'login',
     data() {
@@ -88,7 +86,7 @@
       },
       getCaptcha(){
         this.$axios.get('/captcha').then(res => {
-            console.log(res)
+            console.log("验证码信息"+res)
             this.loginForm.token = res.data.data.token
             this.captchaImg = res.data.data.captchaImg
         })
